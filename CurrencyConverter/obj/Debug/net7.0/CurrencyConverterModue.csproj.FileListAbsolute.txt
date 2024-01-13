@@ -1,0 +1,11 @@
+E:\Project\Test\CurrncyExchange\CurrencyConverter\bin\Debug\net7.0\CurrencyConverterModue.deps.json
+E:\Project\Test\CurrncyExchange\CurrencyConverter\bin\Debug\net7.0\CurrencyConverterModue.dll
+E:\Project\Test\CurrncyExchange\CurrencyConverter\bin\Debug\net7.0\CurrencyConverterModue.pdb
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\CurrencyConverterModue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\CurrencyConverterModue.AssemblyInfoInputs.cache
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\CurrencyConverterModue.AssemblyInfo.cs
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\CurrencyConverterModue.csproj.CoreCompileInputs.cache
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\CurrencyConverterModue.dll
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\refint\CurrencyConverterModue.dll
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\CurrencyConverterModue.pdb
+E:\Project\Test\CurrncyExchange\CurrencyConverter\obj\Debug\net7.0\ref\CurrencyConverterModue.dll

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\Test\\CurrncyExchange\\CurrencyExchangeApp\\CurrencyExchangeApp.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\Test\\CurrncyExchange\\CurrencyConverter\\CurrencyConverterModue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Test\\CurrncyExchange\\CurrencyConverter\\CurrencyConverterModue.csproj",
+        "projectName": "CurrencyConverterModue",
+        "projectPath": "E:\\Project\\Test\\CurrncyExchange\\CurrencyConverter\\CurrencyConverterModue.csproj",
+        "packagesPath": "C:\\Users\\davoodian\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Test\\CurrncyExchange\\CurrencyConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davoodian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Project\\Test\\CurrncyExchange\\CurrencyExchangeApp\\CurrencyExchangeApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\Test\\CurrncyExchange\\CurrencyExchangeApp\\CurrencyExchangeApp.csproj",
+        "projectName": "CurrencyExchangeApp",
+        "projectPath": "E:\\Project\\Test\\CurrncyExchange\\CurrencyExchangeApp\\CurrencyExchangeApp.csproj",
+        "packagesPath": "C:\\Users\\davoodian\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\Test\\CurrncyExchange\\CurrencyExchangeApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\davoodian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Project\\Test\\CurrncyExchange\\CurrencyConverter\\CurrencyConverterModue.csproj": {
+                "projectPath": "E:\\Project\\Test\\CurrncyExchange\\CurrencyConverter\\CurrencyConverterModue.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
